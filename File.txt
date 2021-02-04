@@ -1,5 +1,7 @@
 Hello World....
 
-change: to check modification in tracked file
+change 1: to check modification in tracked file
 
-change : to fix bug1
+change 2: to fix bug1
+
+change 3: to fix bug2
