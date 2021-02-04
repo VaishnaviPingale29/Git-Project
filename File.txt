@@ -1,9 +1,11 @@
 Hello World....
 
-change 1:- to check modification in tracked file
+change 1:- to check modification in tracked file.
 
-change 2:- to fix bug1
+change 2:- to fix bug1.
 
-change 3:- to fix bug2
+change 3:- to fix bug2.
 
-change4 :- by teammate for WI5, 3 way merging
+change4 :- by teammate for WI5, 3 way merging.
+
+chnage 5 :- ny teammeat foe WI6, rebase
